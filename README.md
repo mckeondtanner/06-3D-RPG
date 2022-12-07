@@ -1,5 +1,21 @@
-# Godot-3D-Template
+# 3D RPG
 
-Godot Template for 3D Games
+ADD DESCRIPTION
 
-Includes Keyboard mappings and Global.gd
+12/7/2022
+
+## Implementation
+
+
+
+## References
+
+
+
+## Future Development
+
+None 
+
+## Created by
+
+McKeon Tanner
