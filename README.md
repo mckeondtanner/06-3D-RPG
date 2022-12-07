@@ -1,6 +1,6 @@
 # 3D RPG
 
-ADD DESCRIPTION
+You talk to the NPC and the timer starts where you have to shoot all the targets before time is up.
 
 12/7/2022
 
