@@ -16,6 +16,7 @@ Player and NPC animation
 
 Based on the Kenney Character Assets provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
 Based on the Kenney Blaster Kit Assets provided by kenney.nl.
+https://www.patreon.com/posts/blender-export-16916038
 
 ## Future Development
 
