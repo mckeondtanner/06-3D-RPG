@@ -10,7 +10,7 @@ ADD DESCRIPTION
 
 ## References
 
-
+Based on the Kenney Character Assets provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
 
 ## Future Development
 
